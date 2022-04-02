@@ -1,3 +1,3 @@
 # Split-landing-page
 
-Click on the [link](https://splitxlandingxpage.netlify.app/)
+To see this project [click here...](https://splitxlandingxpage.netlify.app/)
